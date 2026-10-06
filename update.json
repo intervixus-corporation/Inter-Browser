@@ -3,6 +3,6 @@
   "description": "Inter Browser 20.0.0. Atualização e informações oficiais do aplicativo.",
   "version": "20.0.0",
   "link_release_doc": "https://github.com/intervixus-corporation/Inter-Browser/releases",
-  "link_dw_exe": "",
-  "sha256": ""
+  "link_dw_exe": "https://github.com/intervixus-corporation/Inter-Browser/releases/download/INB-20/inter-browser.Setup.20.0.0.exe",
+  "sha256": "5207b4355f596853bcd4391940b4fbffc417dca5db4041a9d0dec6bf31d3ca3a"
 }
